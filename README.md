@@ -1,4 +1,4 @@
-# SCR Autopilot — overnight build
+# SCR Autopilot 
 
 An enhanced build of [PlaceReporter99's SCR Autopilot](https://github.com/PlaceReporter99/SCR-Autopilot)
 for [Stepford County Railway](https://www.roblox.com/games/696347899/Stepford-County-Railway), rebuilt to survive an
